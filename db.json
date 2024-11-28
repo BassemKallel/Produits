@@ -1,4 +1,5 @@
-"Produits":[
+{
+  "Produits":[
   {
     "id": "1",
     "nom": "Sansevieria",
@@ -65,3 +66,4 @@
     "categorie": "indoor plant"
   }
 ]
+}
