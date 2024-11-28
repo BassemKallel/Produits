@@ -2,12 +2,10 @@
   "Produits": [
   {
     "id": "1",
+    "indice": 0,
     "nom": "Sansevieria",
     "prix": "14",
-    "images": [
-      "sansevieria_1.jpg",
-      "sansevieria_2.jpg"
-    ],
+    "images": ["sansevieria_1.jpg", "sansevieria_2.jpg"],
     "description": "Sansevieria, also called mother-in-law's tongue, is a plant native to Africa, used indoors and very decorative. Its foliage is original and elegant and the plant is very resistant, particularly to heat.",
     "quantite": 0,
     "astuce": "Sansevieria being an arid zone plant, watering should be moderate in summer, and very spaced out in winter. Let the substrate dry completely between two waterings and systematically empty the excess water flowing into the saucer or planter.",
@@ -15,12 +13,10 @@
   },
   {
     "id": "2",
+    "indice": 0,
     "nom": "Aréca - Palmier d'intérieur",
     "prix": "260",
-    "images": [
-      "Aréca - Palmier d'intérieur_1.jpg",
-      "Aréca - Palmier d'intérieur_2.jpg"
-    ],
+    "images": ["Aréca - Palmier d'intérieur_1.jpg", "Aréca - Palmier d'intérieur_2.jpg"],
     "description": "This decorative plant has it all: designer allure, airy foliage, graceful curves and an exotic look. Often used as an indoor palm, the areca offers decorative foliage with a designer look.",
     "quantite": 3,
     "astuce": "Place your areca in a good-sized pot filled with special potting soil for indoor plants or green plants. Although it is necessary to repot it in the spring every 2 to 3 years, apart from that, prefer regular topping which will perfectly meet the plant's need for growing support.",
@@ -28,12 +24,10 @@
   },
   {
     "id": "3",
+    "indice": 0,
     "nom": "Monstera Deliciosa",
     "prix": "65",
-    "images": [
-      "Monstera Deliciosa_1.jpg",
-      "Monstera Deliciosa_2.jpg"
-    ],
+    "images": ["Monstera Deliciosa_1.jpg", "Monstera Deliciosa_2.jpg"],
     "description": "The monstera is one of the favorite indoor plants to decorate your house or apartment. Also called False Philodendron, it is an indoor plant of the Araceae family, native to Central America and Brazil. It is very appreciated for its aesthetic qualities, its ease of maintenance and its robustness. Its exuberant and graphic leaves can measure between 50 and 70 cm in a pot.",
     "quantite": 0,
     "astuce": "The best place to install your monstera may be near a window but without direct sunlight. You can even install it quite far from a light source because the plant tolerates dim light very well. What it fears most is excess sun because it dries out the plant. The more light the monstera receives, the more its foliage suffers. Absolutely avoid proximity to a heat source such as a radiator because this plant of tropical origin needs humidity.",
@@ -41,12 +35,10 @@
   },
   {
     "id": "4",
+    "indice": 0,
     "nom": "Dracaena Marginata magenta",
     "prix": "46",
-    "images": [
-      "Dracaena Marginata magenta_1.jpg",
-      "Dracaena Marginata magenta_2.jpg"
-    ],
+    "images": ["Dracaena Marginata magenta_1.jpg", "Dracaena Marginata magenta_2.jpg"],
     "description": "The dracaena marginata, wrongly considered a palm, remains a magnificent houseplant.",
     "quantite": 2,
     "astuce": "Generally, water moderately, in the growing period which extends from March to August a little more than in winter. You can let the soil dry out a bit before watering again. However, do not leave the roots in water, as this will cause root rot.",
@@ -54,12 +46,10 @@
   },
   {
     "id": "5",
+    "indice": 0,
     "nom": "Pied D'éléphant Beaucarnea",
     "prix": "65",
-    "images": [
-      "Pied D'éléphant Beaucarnea_1.jpg",
-      "Pied D'éléphant Beaucarnea_2.jpg"
-    ],
+    "images": ["Pied D'éléphant Beaucarnea_1.jpg", "Pied D'éléphant Beaucarnea_2.jpg"],
     "description": "The beaucarnéa is a very beautiful indoor tree appreciated for its foliage and its pretty trunk.",
     "quantite": 0,
     "astuce": "Beaucarnea does not tolerate excess water and must be planted in a pot with holes at the bottom with a bed of gravel or clay balls.",
