@@ -4,10 +4,12 @@
     "id": "1",
     "nom": "Sansevieria",
     "prix": "14",
-    "image1": "sansevieria_1.jpg",
-    "image2": "sansevieria_2.jpg",
+    "images": [
+      "sansevieria_1.jpg",
+      "sansevieria_2.jpg"
+    ],
     "description": "Sansevieria, also called mother-in-law's tongue, is a plant native to Africa, used indoors and very decorative. Its foliage is original and elegant and the plant is very resistant, particularly to heat.",
-    "quantite": 5,
+    "quantite": 0,
     "astuce": "Sansevieria being an arid zone plant, watering should be moderate in summer, and very spaced out in winter. Let the substrate dry completely between two waterings and systematically empty the excess water flowing into the saucer or planter.",
     "categorie": "indoor plant"
   },
@@ -15,10 +17,12 @@
     "id": "2",
     "nom": "Aréca - Palmier d'intérieur",
     "prix": "260",
-    "image1": "Aréca - Palmier d'intérieur_1.jpg",
-    "image2": "Aréca - Palmier d'intérieur_2.jpg",
+    "images": [
+      "Aréca - Palmier d'intérieur_1.jpg",
+      "Aréca - Palmier d'intérieur_2.jpg"
+    ],
     "description": "This decorative plant has it all: designer allure, airy foliage, graceful curves and an exotic look. Often used as an indoor palm, the areca offers decorative foliage with a designer look.",
-    "quantite": 0,
+    "quantite": 3,
     "astuce": "Place your areca in a good-sized pot filled with special potting soil for indoor plants or green plants. Although it is necessary to repot it in the spring every 2 to 3 years, apart from that, prefer regular topping which will perfectly meet the plant's need for growing support.",
     "categorie": "indoor plant"
   },
@@ -26,10 +30,12 @@
     "id": "3",
     "nom": "Monstera Deliciosa",
     "prix": "65",
-    "image1": "Monstera Deliciosa_1.jpg",
-    "image2": "Monstera Deliciosa_2.jpg",
+    "images": [
+      "Monstera Deliciosa_1.jpg",
+      "Monstera Deliciosa_2.jpg"
+    ],
     "description": "The monstera is one of the favorite indoor plants to decorate your house or apartment. Also called False Philodendron, it is an indoor plant of the Araceae family, native to Central America and Brazil. It is very appreciated for its aesthetic qualities, its ease of maintenance and its robustness. Its exuberant and graphic leaves can measure between 50 and 70 cm in a pot.",
-    "quantite": 3,
+    "quantite": 0,
     "astuce": "The best place to install your monstera may be near a window but without direct sunlight. You can even install it quite far from a light source because the plant tolerates dim light very well. What it fears most is excess sun because it dries out the plant. The more light the monstera receives, the more its foliage suffers. Absolutely avoid proximity to a heat source such as a radiator because this plant of tropical origin needs humidity.",
     "categorie": "indoor plant"
   },
@@ -37,10 +43,12 @@
     "id": "4",
     "nom": "Dracaena Marginata magenta",
     "prix": "46",
-    "image1": "Dracaena Marginata magenta_1.jpg",
-    "image2": "Dracaena Marginata magenta_2.jpg",
-    "description": "The dracaena marginata, wrongly considered a palm, remains a magnificent houseplant. The origin of Dracaena is Africa, Central America and Asia. The houseplant requires little maintenance, can be in partial shade and is therefore very suitable for offices.",
-    "quantite": 0,
+    "images": [
+      "Dracaena Marginata magenta_1.jpg",
+      "Dracaena Marginata magenta_2.jpg"
+    ],
+    "description": "The dracaena marginata, wrongly considered a palm, remains a magnificent houseplant.",
+    "quantite": 2,
     "astuce": "Generally, water moderately, in the growing period which extends from March to August a little more than in winter. You can let the soil dry out a bit before watering again. However, do not leave the roots in water, as this will cause root rot.",
     "categorie": "indoor plant"
   },
@@ -48,56 +56,14 @@
     "id": "5",
     "nom": "Pied D'éléphant Beaucarnea",
     "prix": "65",
-    "image1": "Pied D'éléphant Beaucarnea_1.jpg",
-    "image2": "Pied D'éléphant Beaucarnea_2.jpg",
-    "description": "The beaucarnéa is a very beautiful indoor tree appreciated for its foliage and its pretty trunk. Planting and repotting, maintenance and watering are all actions that will improve its growth and prevent it from getting sick.",
-    "quantite": 10,
-    "astuce": "Even if it is undemanding in terms of soil and substrate, planting beaucarnea should allow you to increase its lifespan. Beaucarnea does not tolerate excess water and must be planted in a pot with holes at the bottom with a bed of gravel or clay balls at the bottom of the pot. It likes to be cramped and should never be planted in too large a pot.",
-    "categorie": "indoor plant"
-  },
-  {
-    "id": "6",
-    "nom": "Moon Flower",
-    "prix": "59",
-    "image1": "@/assets/FleurLune.jpg",
-    "image2": "@/assets/FleurLune1.jpg",
-    "description": "Of Colombian origin, this plant has won over many of us for its magnificent foliage and its generous moon-shaped flowering. It is a plant which can also live a very long time and offer flowering throughout the entire season. year in optimal conditions.",
-    "quantite": 7,
-    "astuce": "In our climates, this plant settles inside our houses and apartments. The Moonflower develops well when temperatures are around 20-22°. Place it in a good-sized pot and plant it in special potting soil for indoor plants or flowering plants. Although it is necessary to repot it in the spring every 2 to 3 years, other than that, prefer regular topping which will perfectly meet the plant's growing support needs. Finally, ideally place the pot on a bed of clay balls or small pebbles that you will keep constantly moist.",
-    "categorie": "indoor plant"
-  },
-  {
-    "id": "7",
-    "nom": "Cactus - Echinocactus grusonii",
-    "prix": "320",
-    "image1": "@/assets/cactus.jpg",
-    "image2": "@/assets/cactus1.jpg",
-    "description": "The famous “mother-in-law cushion” or Echinocactus is the most successful ball cactus for years, as it attracts with its regular and elegant shape. It grows slowly and has an astonishing lifespan.",
+    "images": [
+      "Pied D'éléphant Beaucarnea_1.jpg",
+      "Pied D'éléphant Beaucarnea_2.jpg"
+    ],
+    "description": "The beaucarnéa is a very beautiful indoor tree appreciated for its foliage and its pretty trunk.",
     "quantite": 0,
-    "astuce": "Cacti of the genus Echinocactus grow in balls when they are young and for a good part of their life. Some reach more than 1.50 m in height and width in their native habitat. In cultivation, these differences fade due to the slow growth, but E. grusonii can still grow over the years to a respectable diameter of 0.60 to 1 m.",
+    "astuce": "Beaucarnea does not tolerate excess water and must be planted in a pot with holes at the bottom with a bed of gravel or clay balls.",
     "categorie": "indoor plant"
-  },
-  {
-    "id": "8",
-    "nom": "Le Ficus Ginseng - Ficus Bonsaï",
-    "prix": "51",
-    "image1": "@/assets/ficus.jpg",
-    "image2": "@/assets/ficus1.jpg",
-    "description": "The ficus ginseng is a superb indoor plant that we appreciate for its root trunk and its decorative foliage. The leaves develop on the large root, thus forming one of the most beautiful effects. Easy to maintain, find below how to water it, prune it or even the right repotting period.",
-    "quantite": 4,
-    "astuce": "The ficus ginseng is a superb indoor plant that we appreciate for its root trunk and its decorative foliage. Easy to maintain, the ficus ginseng nevertheless requires some care to give it every chance of living a long time and in good conditions. The ficus ginseng appreciates the temperature inside your house or apartment, ideally between 15 and 25°. It likes to have good light but not direct sun It fears drafts The ficus ginseng does not like to be confronted with a sudden shock of temperature.",
-    "categorie": "indoor plant"
-  },
-  {
-    "id": "9",
-    "nom": "Anthurium Flamingo Rouge",
-    "prix": "80",
-    "image1": "@/assets/flaminco.jpg",
-    "image2": "@/assets/flaminco1.jpg",
-    "description": "We have selected for you this pretty variety of anthurium 'Flamingo Rouge', also called tongue of fire. This plant native to tropical regions of South America is easy to care for and has exceptional longevity. You will love its large, bright red flowers (bracts) which will bring a touch of exoticism and color to your interiors. It will be accompanied by its zinc planter.",
-    "quantite": 8,
-    "astuce": "To make the most of this plant, your recipient will just have to follow the advice below that will accompany your order: Exposure: requires significant light, but care must be taken not to expose it directly to the sun. Temperature: between 17 and 25°C. Watering: it appreciates moderate humidity, water once a week. However, it is important not to keep stagnant water at the base of the plant. Limit watering in winter but spray the anthurium if the ambient air is too dry.",
-    "categorie": "fleur"
   }
 ]
 }
