@@ -1,7 +1,103 @@
 {
-"produits":
-[
-{"id":"1","nom":"Sansevieria","prix":"14","images":["sansevieria.png","sansevieria1.png"],"description":"Sansevieria, also called mother-in-law's tongue, is a plant native to Africa, used indoors and very decorative.\r\n\r\nIts foliage is original and elegant and the plant is very resistant, particularly to heat.","enStock":"1","astuce":"Sansevieria being an arid zone plant, watering should be moderate in summer, and very spaced out in winter. Let the substrate dry completely between two waterings and systematically empty the excess water flowing into the saucer or planter.","categorie":"indoor plant\r\n"},
-{"id":"2","nom":"Aréca - Palmier d'intérieur\r\n","prix":"260","images":["areca.png","areca1.png"],"description":"This decorative plant has it all: designer allure, airy foliage, graceful curves and an exotic look. Often used as an indoor palm, the areca offers decorative foliage with a designer look.\r\n","enStock":"1","astuce":"Place your areca in a good-sized pot filled with special potting soil for indoor plants or green plants. Although it is necessary to repot it in the spring every 2 to 3 years, apart from that, prefer regular topping which will perfectly meet the plant's need for growing support.\r\n","categorie":"indoor plant"}
-]
+  "produits": [
+    {
+      "id": "1",
+      "nom": "Sansevieria",
+      "prix": "14",
+      "images": ["sansevieria.png", "sansevieria1.png"],
+      "description": "Sansevieria, also called mother-in-law's tongue, is a plant native to Africa, used indoors and very decorative.\r\n\r\nIts foliage is original and elegant and the plant is very resistant, particularly to heat.",
+      "enStock": "1",
+      "astuce": "Sansevieria being an arid zone plant, watering should be moderate in summer, and very spaced out in winter. Let the substrate dry completely between two waterings and systematically empty the excess water flowing into the saucer or planter.",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "2",
+      "nom": "Aréca - Palmier d'intérieur",
+      "prix": "260",
+      "images": ["areca.png", "areca1.png"],
+      "description": "This decorative plant has it all: designer allure, airy foliage, graceful curves and an exotic look. Often used as an indoor palm, the areca offers decorative foliage with a designer look.\r\n",
+      "enStock": "1",
+      "astuce": "Place your areca in a good-sized pot filled with special potting soil for indoor plants or green plants. Although it is necessary to repot it in the spring every 2 to 3 years, apart from that, prefer regular topping which will perfectly meet the plant's need for growing support.\r\n",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "3",
+      "nom": "Monstera Deliciosa",
+      "prix": "45",
+      "images": ["monstera.png", "monstera1.png"],
+      "description": "The Monstera deliciosa, also known as the Swiss cheese plant, is an indoor plant with large, glossy, perforated leaves that add a tropical feel to any room.",
+      "enStock": "1",
+      "astuce": "Place your monstera in a bright spot with indirect light. Water when the top inch of soil is dry and wipe the leaves occasionally to keep them clean and shiny.",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "4",
+      "nom": "Pothos",
+      "prix": "20",
+      "images": ["pothos.png", "pothos1.png"],
+      "description": "Pothos is a fast-growing, easy-care trailing plant that is perfect for hanging baskets or training up trellises. Its heart-shaped leaves come in a variety of patterns and colors.",
+      "enStock": "1",
+      "astuce": "Pothos thrives in a wide range of conditions. Allow the soil to dry out between waterings, and place it in indirect sunlight for best growth.",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "5",
+      "nom": "Calathea",
+      "prix": "35",
+      "images": ["calathea.png", "calathea1.png"],
+      "description": "Calathea plants are prized for their stunning, colorful foliage that comes in a variety of patterns and shades. They are ideal for adding a touch of elegance to indoor spaces.",
+      "enStock": "1",
+      "astuce": "Calatheas prefer high humidity and indirect light. Keep the soil consistently moist but not soggy, and mist the leaves regularly to maintain humidity.",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "6",
+      "nom": "Peace Lily",
+      "prix": "50",
+      "images": ["peace_lily.png", "peace_lily1.png"],
+      "description": "The peace lily is a popular indoor plant known for its lush, dark green leaves and elegant white flowers. It is also excellent for improving indoor air quality.",
+      "enStock": "1",
+      "astuce": "Place your peace lily in a bright spot but out of direct sunlight. Water when the soil feels dry, and avoid overwatering to prevent root rot.",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "7",
+      "nom": "Ficus Ginseng",
+      "prix": "80",
+      "images": ["ficus.jpg", "ficus1.jpg"],
+      "description": "A bonsai often appreciated for its superb root trunk, the ficus ginseng is a magnificent indoor plant.\r\n\r\nMaintenance, pruning, watering and exposure, here are our tips to make your ficus ginseng even more beautiful.\r\n",
+      "enStock": "1",
+      "astuce": "Place your ficus ginseng in a bright place but without direct sunlight. Avoid sudden changes in temperature and drafts. Water moderately, letting the soil dry out slightly between two waterings. Too much water can cause the roots to rot.\r\n",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "8",
+      "nom": "Cactus Euphorbia",
+      "prix": "120",
+      "images": ["cactus.jpg", "cactus1.jpg"],
+      "description": "The Euphorbia cactus, also known as the African milk tree, is an unusual and decorative indoor plant. Its tall, columnar shape and small leaves make it a unique addition to any home or office space.",
+      "enStock": "1",
+      "astuce": "Place your Euphorbia cactus in a sunny location with well-drained soil. Water sparingly, allowing the soil to dry out completely between waterings. Avoid overwatering, as it can lead to root rot.",
+      "categorie": "indoor plant",
+      "indice": 0
+    },
+    {
+      "id": "9",
+      "nom": "Zamioculcas - ZZ Plant",
+      "prix": "85",
+      "images": ["zamioculcas.jpg", "zamioculcas1.jpg"],
+      "description": "Zamioculcas is a robust and easy-to-maintain indoor plant. Its glossy, dark green leaves make it an attractive addition to any room.\r\n\r\nIt is particularly popular for its ability to thrive in low light and its minimal watering requirements.",
+      "enStock": "1",
+      "astuce": "Water your ZZ plant only when the soil is dry to the touch. It prefers indirect light but can tolerate low-light conditions. Avoid overwatering to prevent root rot.",
+      "categorie": "indoor plant",
+      "indice": 0
+    }
+  ]
 }
